@@ -3,4 +3,4 @@
 
 = Introduction =
 
-Chantra Application Package was inspired by Google AppPack which working like package manager. It easy to install, remove, upgrade from software source. That mean installed software will upgrade when the new version released. 
+[http://code.google.com/p/chantra Chantra] Application Package was inspired by Google AppPack which working like package manager. It easy to install, remove, upgrade from software source. That mean installed software will upgrade when the new version released. 
