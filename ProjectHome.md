@@ -1,0 +1,1 @@
+Chantra AppPack is package manager for [Chantra](http://code.google.com/p/chantra/) project. This application will help extend a number of open source software which not include in CD/DVD media.
